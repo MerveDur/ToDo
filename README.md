@@ -1,5 +1,5 @@
-# To Dı UUygulaması
-## ToDo Uygulaması
+# To Do Uygulaması
+## 
 PROJE-2 : Console ToDo Uygulaması
 
 
